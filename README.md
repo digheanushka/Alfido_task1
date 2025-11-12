@@ -1,15 +1,15 @@
 # Alfido_task1
-Reconnaissance & Scanning 
+##Reconnaissance & Scanning 
 
-# Netdiscover / ARP scanners: help detect live hosts on a local subnet using ARP. Useful for inventory on LANs you control.
+ Netdiscover / ARP scanners: help detect live hosts on a local subnet using ARP. Useful for inventory on LANs you control.
 
-# Nmap (scanner): discovers live hosts, open ports, running services and can attempt OS/service fingerprinting — used to map attack surface.
+ Nmap (scanner): discovers live hosts, open ports, running services and can attempt OS/service fingerprinting — used to map attack surface.
 
-# Passive OSINT/tools: DNS history, public cert transparency logs, search engines, and public code repos to learn about infrastructure without probing.
+ Passive OSINT/tools: DNS history, public cert transparency logs, search engines, and public code repos to learn about infrastructure without probing.
 
-# Service-specific probes & banners: identify versions from service banners to research known issues (never exploit without permission).
+ Service-specific probes & banners: identify versions from service banners to research known issues (never exploit without permission).
 
-# Vulnerability databases: use vendor CVE databases and advisories to interpret results.
+ Vulnerability databases: use vendor CVE databases and advisories to interpret results.
 
 ## High-level, legal reconnaissance & scanning workflow (short, conceptual)
 
